@@ -13,5 +13,17 @@ body {
     background-color: gray;
 }
 
+h1 {
+    text-align: center;
+}
 
-    
+.mestre {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.mestre img {
+    width: 100%;
+}
